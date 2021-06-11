@@ -23,3 +23,11 @@ print (friends)
 
 list_in_list.remove (["Hardik", 20])
 print (list_in_list)
+
+########################################
+"""
+Joining a list example
+"""
+friends = ["Mark", "Sam", "John"]
+comma_separated = ", ".join(friends)
+print(f"My friends are {comma_separated}.")
