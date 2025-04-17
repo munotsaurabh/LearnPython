@@ -12,3 +12,9 @@ print(f"You have lived for {age * 12} months.") #This will print the entered age
 
 age = input("Enter your age: ")
 print(f"You have lived for {int(age) * 12} months.")
+
+name= input("Enter your name: ")
+print(f"Hello {name}!")
+
+age= input("Enter your age: ")
+print(f"Hey {name}. You are {age} years old.")
