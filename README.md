@@ -1,5 +1,4 @@
 # LearnPython
-# LearnPython
 
 This is my Python learning repository. 🚀
 
